@@ -29,7 +29,7 @@ def TranslateSlowo(indexLini):
 
 
 
-print('\033' + 'Copyright @kacperpsg' + '\033')
+print('\033' + 'Copyright @husarrv' + '\033')
 PATH = "dist/chromedriver.exe"
 
 # Dostep do strony - Uzyskiwanie
