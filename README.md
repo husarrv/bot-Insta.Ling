@@ -9,5 +9,4 @@ If you encounter any other problems, write to me :)
 
 
 Requirements:
-pip install selenium
-pip3 install webdriver-manager
+pip install selenium | pip3 install webdriver-manager
