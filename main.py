@@ -42,10 +42,10 @@ driver.get("https://instaling.pl/teacher.php?page=login")
 
 # Logowanie
 loginInput = driver.find_element(By.ID,"log_email")
-loginInput.send_keys(str("kacpas217")) #there type your Login
+loginInput.send_keys(str("YOUR_LOGIN")) #there type your Login
 loginInput.send_keys(Keys.RETURN)
 passwordInput = driver.find_element(By.ID,"log_password")
-passwordInput.send_keys(str("bhgth")) #there type your Password
+passwordInput.send_keys(str("YOUR_PASSWORD")) #there type your Password
 buttonLogin = driver.find_element(By.XPATH,"//button[text()='ZALOGUJ']")
 buttonLogin.click()
 
